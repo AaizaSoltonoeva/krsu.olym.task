@@ -1,4 +1,4 @@
-def gcd(c):
+def gcd(c):       
  while a!=0 and b!= 0:
   if a>b:
    a=a%b 
